@@ -2,7 +2,7 @@
 # WIP
 ## Introduction
 
-GitHubCopy is a simple TypeScript program that generates Markdown code. Combined with the free service GitHub Pages, you can integrate a <kbd>Copy code</kbd> button or link directly into your Markdown files. The button/link is completely customizable because it's just a regular URL. No additional files needed. The only visible modification you need to add to your Markdown files is a little arrow. It looks like this:
+GitHubCopy is a simple TypeScript program that generates Markdown code. Combined with the free service GitHub Pages, you can integrate a <kbd>Copy code</kbd> button or link directly into your Markdown files. The button/link is completely customizable because it's just a regular URL. No servers needed. No additional files needed. The only visible modification you need to add to your Markdown files is a little arrow. It would look like this:
 
 > ```class Animal extends Dog;```
 >
@@ -10,7 +10,7 @@ GitHubCopy is a simple TypeScript program that generates Markdown code. Combined
 >
 > More content...
 >
-> <details><summary></summary></details>
+> <details><summary></summary>Here would be a JS Script tag.</details>
 
 ## Usage
 
