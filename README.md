@@ -24,6 +24,7 @@ Creating a GitHub Page is pretty easy:
 - Click on the settings tab.
 - Scroll to the GitHub Pages section
 - Select a branch that you want to publish
+- Click on save
 - *(Optional)* Enter your domain to use your own instead of a GitHub.io subdomain
 
 ## Example/Demonstration
