@@ -1,5 +1,5 @@
 # GitHub Copy Code Button
-# WIP
+
 ## Introduction
 
 GitHubCopy is a simple TypeScript program that generates Markdown code. Combined with the free service GitHub Pages, you can integrate a <kbd>Copy code</kbd> button or link directly into your Markdown files. The button/link is completely customizable because it's just a regular URL. No servers needed. No additional files needed. The only visible modification you need to add to your Markdown files is a little arrow. It would look like this:
@@ -30,6 +30,10 @@ Creating a GitHub Page is pretty easy:
 ## Example/Demonstration
 
 See [demo.md](demo.md).
+
+## Planned Updates
+
+I might add a web interface soon. Currently you have to use a JS Console, but it can be ported for web because it's written in TS.
 
 ## Special Thanks
 
