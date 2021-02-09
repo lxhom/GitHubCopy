@@ -1,7 +1,7 @@
 /**
 * Generate the footer & Copy URLs.
 * @param {string[]} copyStrings The strings that should be copyable
-* @param {string} githubURL The link to your markdown file on your GitHub Page (NOT your repository). Example for demo.md from this repository: https://lxhom.github.io/GitHubCopy/demo.md
+* @param {string} githubURL The link to your markdown file on your GitHub Page (NOT your repository). Example for demo.md from this repository: https://lxhom.github.io/GitHubCopy/demo
 * @param {boolean} shhh Add a message saying "Shhh, this is the secret JS Section!"
 * @param {boolean} link Add a link to my GitHub page
 * @param {string} footerText Add a text to the footer arrow
